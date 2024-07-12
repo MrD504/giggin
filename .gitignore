@@ -1,0 +1,9 @@
+/node_modules
+/target
+/public/js
+.shadow-cljs
+.clj-kondo
+.nrepl-port
+yarn.lock
+package-lock.json
+.DS_Store
